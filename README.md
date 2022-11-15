@@ -1,2 +1,1 @@
-# c_calculator
-C言語で電卓
+# C言語で電卓
