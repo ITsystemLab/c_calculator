@@ -31,7 +31,7 @@
        <td>制作環境</td>
        <td>
          <ul>
-           <li>iPad/li>
+           <li>iPad</li>
          </ul>
        </td>
    </tr>
