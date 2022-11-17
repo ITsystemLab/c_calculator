@@ -77,10 +77,6 @@
 
 <img width="auto" src="https://user-images.githubusercontent.com/87808547/202403340-834083be-d1a4-4737-867f-b1c60911418f.png">
 
-# ←↑→↓
-操作
-
-# ESC
 <ol>
   <li>計算回数を入力します。</li>
   <li>計算方法を入力します。</li>
